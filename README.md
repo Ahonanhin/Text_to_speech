@@ -10,6 +10,8 @@ This is a simple text-to-speech converter application built with Python and Tkin
 
 ## Usage
 Run the script with `python main.py`. A window will open with a text field for input. Enter the text you want to convert to speech and click the "Convert" button. The text will be read out loud. You can clear the text field with the "Clear" button and exit the application with the "Exit" button. See image below
+
+
 ![1](https://github.com/Ahonanhin/Text_to_speech/assets/69763285/6ad0590b-4189-48fd-9bb8-3165199a2bd6)
 
 
